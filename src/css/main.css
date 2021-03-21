@@ -1,0 +1,230 @@
+/* @import "fonts.css"; */
+
+/* .header {
+  position: fixed;
+  top: 28px;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+} */
+
+/* .header__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-align: end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+} */
+
+/* .header__list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+} */
+
+/* .header__link {
+  font-family: "Montserrat-regular";
+  margin-right: 55px;
+  color: white;
+  font-size: 14px;
+  text-transform: uppercase;
+  text-decoration: none;
+} */
+
+/* .header__link:hover {
+  color: yellow;
+  padding-bottom: 11px;
+  border-bottom: yellow solid 2px;
+} */
+
+/* .header__basket {
+  margin-right: 40px;
+} */
+
+/* .container {
+  max-width: 1200px;
+  margin: 0 auto;
+} */
+
+/* .header__wrapper-nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+} */
+
+/* .intro {
+  height: 100vh;
+  background: url(../images/background.png) center no-repeat;
+  background-size: cover;
+} */
+
+/* .intro__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 28vh;
+} */
+
+/* .intro__title {
+  color: #ffffff;
+  font-family: "KaushanScript-Regular";
+} */
+/* 
+.intro__subtitle {
+  color: #ffffff;
+  font-family: "Montserrat-bold";
+  margin-bottom: 71px;
+  text-align: center;
+  text-transform: uppercase;
+} */
+/* 
+.intro__underline {
+  width: 60px;
+  height: 3px;
+  background-color: #ffffff;
+  border: none;
+} */
+/* 
+.intro__button {
+  color: #ffffff;
+  font-family: "Montserrat-bold";
+  font-size: 14px;
+  text-transform: uppercase;
+  background-color: transparent;
+  border: 3px solid #ffffff;
+  padding: 15px 32px;
+  line-height: 11px;
+} */
+
+/* .intro__menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+} */
+
+/* .menu__block {
+  width: 280px;
+  margin: 0 26px 0 0 ;
+} */
+
+/* .menu__block:last-child {
+  margin: 0;
+} */
+
+/* .menu__name {
+  position: fixed;
+  color: #ffffff;
+  font-family: "Montserrat-regular";
+  font-size: 18px;
+  text-transform: uppercase;
+  margin-top: 24px;
+  bottom: 28px;
+} */
+
+/* .menu__number {
+  font-family: "Montserrat-Bold";
+  font-size: 24px;
+} */
+
+/* .swiper-container {
+  width: 100%;
+  height: 100%;
+} */
+
+/* .swiper-pagination-bullet {
+  width: 280px;
+  height: 3px;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 0 !important;
+  justify-content: space-between;
+  margin: 0 26px 0 0 ;
+} */
+
+/* .swiper-pagination-bullet:last-child {
+  margin-right: 0 !important;
+} */
+
+/* .swiper-pagination-bullet-active::after {
+  content: "";
+  display: block;
+  background-color: #f38181;
+  width: 0%;
+  height: 100%;
+  animation: 5s linear 0s alternate st;
+} */
+
+/* .swiper-pagination {
+  position: fixed;
+  bottom: 70px;
+  width: 100%;  
+  display: flex;
+} */
+
+/* @keyframes st {
+  from {
+    width: 0%;
+    height: 100%;
+  }
+  to {
+    width: 100%;
+    height: 100%;
+  }
+} */
+
+/* title width */
+
+/* @media (min-width: 340px) and (max-width: 2560px) {
+  .intro__title {
+    font-size: calc(10px + (72 - 10) * ((100vw - 340px) / (2560 - 340)));
+  }
+  .intro__title {
+    margin-bottom: calc(10px + (42 - 10) * ((100vw - 340px) / (2560 - 340)));
+  }
+}
+
+@media (min-width: 340px) and (max-width: 2560px) {
+  .intro__subtitle {
+    font-size: calc(20px + (150 - 20) * ((100vw - 340px) / (2560 - 340)));
+  }
+  .intro__subtitle {
+    margin-bottom: calc(15px + (71 - 15) * ((100vw - 340px) / (2560 - 340)));
+  }
+}
+
+@media (min-width: 340px) and (max-width: 2560px) {
+  .intro__underline {
+    margin-bottom: calc(10px + (50 - 10) * ((100vw - 340px) / (2560 - 340)));
+  }
+}
+
+@media (min-width: 340px) and (max-width: 2560px) {
+  .intro__button {
+    margin-bottom: calc(30px + (157 - 30) * ((100vw - 340px) / (2560 - 340)));
+  }
+} */
+
+
+
+
+/* @media (max-width: 1200px) {
+  .swiper-pagination-bullet {
+    max-width: 280px;
+  }
+} */
